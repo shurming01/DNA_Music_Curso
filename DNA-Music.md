@@ -3,7 +3,9 @@
 
 # Muevete - Programa de formación en producción y emprendimiento musical
 ![](Banner-módulo1_(1).webp)
+
 Video introducción @SAMTAPIAS
+
 ![](Video1.jpg)
    * Desde que nacemos los  sonidos nos rodean.
      * Cada uno de esos sonidos se van volviendo música en nuestas mentes. Cada uno de esos sonidos se van convirtiendo en **La Banda sonara** de situaciones muy específicas y especiales de nuestra vida.
